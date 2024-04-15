@@ -1,5 +1,5 @@
 # Get your files ready
-This part of the project was based on (SgtFoose's evil portals)[https://github.com/SgtFoose/Evil-Portals].  
+This part of the project was based on [SgtFoose's evil portals](https://github.com/SgtFoose/Evil-Portals).  
 However, to get a better experience, I redirected the user to the actual mc donald's website, instead of the "Anauthorized login" page that comes by default. You can find all the updated files in the "" folder.  
 1. Copy the files to the pineapple: `scp -r ./mcdonalds-login/ root@172.16.42.1:/root/portals/`.
 2. Navigate to the evil portal module. If not showing on the left side of the screen, look for it under *Modules & Packages*.
