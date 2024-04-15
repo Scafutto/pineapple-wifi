@@ -20,5 +20,5 @@ python3 /etc/nginx/html/app.py
 3. The credentials are going to be printed on the terminal, but are also saved at `/credentials.csv`
 
 # Notes
-The "fakebook" page was based on [melvincwng's facebook-clone](https://github.com/melvincwng/facebook-clone).
-The current site won't do anythign but just saving credentials, you may need to further develop it depending on your project.
+The "fakebook" page was based on [melvincwng's facebook-clone](https://github.com/melvincwng/facebook-clone).  
+The current site won't do anything except for saving credentials, you may need to further develop it depending on your project.
